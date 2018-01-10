@@ -2,7 +2,7 @@
 
 ## Predicting Titanic Survival
 
-This was my first project for the Data Science Immersive prorgram at General Assembly.
+This was my first project for the Data Science Immersive program at General Assembly.
 
 Working with the Titanic survivors dataset, the goals of this project were to:
 - Practice python programming including loops, conditionals, types, functions, data structures, pandas and visualization;
